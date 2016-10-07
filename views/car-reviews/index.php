@@ -1,1 +1,0 @@
-this is the index file for Car reviews.
